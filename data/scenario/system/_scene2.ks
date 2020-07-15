@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/bg2.png"  ]
+[preload  storage="./data/fgimage/chara/2/Java2.png"  ]
+[preload  storage="./data/fgimage/chara/4/Python2.png"  ]
+[preload  storage="./data/fgimage/chara/3/JavaScript2.png"  ]
+[preload  storage="./data/fgimage/chara/1/C2.png"  ]
+[return]
